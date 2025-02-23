@@ -1,10 +1,10 @@
-### Hi there 👋 Welcome To My Github......
+### Hiiiii~ there 👋 【Welcome To My Github - loveylwforever】
 
 - 🔭 I’m currently working on PingAn OCFT -> https://www.ocft.com/
 - 😄 I'm good at shell scripts
 - 👯 I'm not so good at Java just in a way familiar with it and it's my main develop language
-- 🌱 I'm currently doing some frontend development
-- 🌱 I’m currently learning python Programming
+- 🌱 I'm currently intrested in frontend development
+- 🤔 I’m currently learning python Programming
 - 🌱 I’m currently working on springboot template project
 
 热爱技术
