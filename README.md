@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on PingAn OCFT -> https://www.ocft.com/
 - 😄 I'm good at shell scripts
-- 👯 I'm not so good at Java just in a way familiar with it and it's my main develop language
+- 👯 I'm not so good at Java just in a way familiar with it but it's my main develop language at work
 - 🌱 I'm currently intrested in frontend development
 - 🤔 I’m currently learning python Programming
 - 🌱 I’m currently working on springboot template project
