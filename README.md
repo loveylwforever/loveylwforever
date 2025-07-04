@@ -12,6 +12,8 @@
 
 始终保持对新技术的学习和洞察，积极学习和应用最新的开发趋势，力求在每一个项目中都能引入创新合理的解决方案。目标：通过技术的力量，推动项目成功，创造出令人惊叹的优秀的稳定产品。
 
+价值观：用技术手段尽量为社会多做贡献！
+
 <!--
 **loveylwforever/loveylwforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="800px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=loveylwforever&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
